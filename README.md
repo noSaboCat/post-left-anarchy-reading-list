@@ -8,7 +8,7 @@ A repository for both pdf and epub versions of the essays found in the image bel
 
 ## Roadmap
 - 🟩 ~~Created Page~~
-- 🟨 Upload files
+- 🟨 Upload files (3/24 folders)
 - 🟥 Edit Readme to have links to each essay on The Anarchist Library
 - 🟥 Add more current essays not featured in the above picture
 - ❓ Maybe add resources for Stop the Bleed, OPSEC, and OSINT techniques. 
