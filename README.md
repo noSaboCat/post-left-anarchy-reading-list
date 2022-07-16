@@ -12,6 +12,7 @@ A repository for both pdf and epub versions of the essays found in the image bel
 - 🟥 Edit Readme to have links to each essay on The Anarchist Library
 - 🟥 Add more current essays not featured in the above picture
 - ❓ Maybe add resources for Stop the Bleed, OPSEC, and OSINT techniques. 
+- ❓ Markdown versions of the files, which The Anarchist Library does not contain.
 
 ## Links (WIP)
 
