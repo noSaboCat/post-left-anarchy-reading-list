@@ -1,4 +1,4 @@
-# Post-Left Anarchy Reading List 
+# Post-Left Anarchy Reading List 🏴
 
 A repository for both pdf and epub versions of the essays found in the image below. Of course, [The Anarchist Library](https://theanarchistlibrary.org/special/index) already makes these works accessible, but I thought having (most) of them in one place would make learning easier for those wanting to dip their toes into the various post-left flavors.
 
