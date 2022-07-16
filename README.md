@@ -7,6 +7,7 @@ A repository for both pdf and epub versions of the essays found in the image bel
 ![Emq-Ar3VkAAtjn6](https://user-images.githubusercontent.com/109400458/179336945-a9525890-5d16-49b1-ae03-33087a7e6f8f.jpg)
 
 ## Roadmap
+- 🟩 ~~Created Page~~
 - 🟨 Upload files
 - 🟥 Edit Readme to have links to each essay on The Anarchist Library
 - 🟥 Add more current essays not featured in the above picture
