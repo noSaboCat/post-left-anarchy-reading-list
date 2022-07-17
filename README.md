@@ -46,7 +46,7 @@ This repo is meant not only to make links and files easily accessible, but also 
 - [The False Principle of Our Education or, Humanism and Realism by Max Stirner](https://theanarchistlibrary.org/library/max-stirner-the-false-principle-of-our-education)
 ### Anarcho-Individualism
 - [The Anarchists by John Henry Mackay](https://theanarchistlibrary.org/library/john-henry-mackay-the-anarchists-a-picture-of-civilization-at-the-close-of-the-nineteenth-centu)
-- [Enemies of Society: An Anthology of Individualist & Egoist Thought by Various](https://archive.org/details/EnemiesOfSocietyAnAnthologyOfIndividualistEgoistThought)
+- [Enemies of Society: An Anthology of Individualist & Egoist Thought by Various](https://theanarchistlibrary.org/library/jarach-enemies-of-society-an-anthology-of-individualist-and-egoist-thought)
 - [Disruptive Elements: The Extremes of French Anarchism](https://archive.org/details/DisruptiveElements)
 - [Novatore by Renzo Novatore](https://files.libcom.org/files/Novatore%20-%20The%20Collected%20Writings%20of%20Renzo%20Novatore.pdf) **Note: Only in PDF (for now)**
 - [The rebel’s dark laughter: the writings of Bruno Filippi](https://theanarchistlibrary.org/library/bruno-filippi-the-rebel-s-dark-laughter-the-writings-of-bruno-filippi)
