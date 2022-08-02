@@ -12,8 +12,8 @@ I also feel strange about linking to some of the more... shall we say... *choice
 
 ## Roadmap
 - 🟩 ~~Created Page~~
-- 🟨 Upload files (11/24 folders)
-- 🟥 Edit Readme to have links to each essay on The Anarchist Library
+- 🟩 Upload files (24/24 folders)
+- 🟩 Edit Readme to have links to each essay on The Anarchist Library (or Archive.com)
 - 🟥 Add more current essays not featured in the above picture
 - ❓ Maybe add resources for Stop the Bleed, OPSEC, and OSINT techniques. 
 - ❓ Markdown versions of the files, which The Anarchist Library does not contain.
@@ -137,116 +137,119 @@ I also feel strange about linking to some of the more... shall we say... *choice
 - [BLOODLUST: A feminist journal against civilization](https://archive.org/details/BLOODLUSTZineLibrary) **PDF Only**
 - [Xenofeminism: A Politics for Alienation by Laboria Cuboniks](https://laboriacuboniks.net/wp-content/uploads/2019/11/20150612-xf_layout_web.pdf) **PDF Only**
 - [The Intersection between Feminism and Stirner Egoism by abissonichilista ](https://theanarchistlibrary.org/library/abissonichilista-the-intersection-between-feminism-and-stirner-egoism)
-
-
-# WIP
----
-
-
 ### Anti-Identity Politics
-- [The Point is Not to Interpret Whiteness but to Abolish it by Noel Ignatiev]()
-- [Accomplices Not Allies: Abolishing the Ally Industrial Complex: An Indigenous Perspective and Provocation by Unknown]()
-- [Really Though, Not All “Black” People Give a Fuck About “White” Dreads: A Diary on Mayhem and Race Nihilism by Flower Bomb]()
-- [Against Identity Politics by Lupus Dragonowl]()
-- [Nameless: An Egoist Critique of Identity by Wolfi Landstricher]()
-- [White Purity and ‘Woke’ Nationalism by Rhyd Wildermuth]()
-- [The Intersection Between Feminism and Stiner Egoism by Abissonichilista]()
-- [I Apologize in Advance by Dr. Bones]()
+- [The Point is Not to Interpret Whiteness but to Abolish it by Noel Ignatiev](https://web.archive.org/web/20150427143800/https://www.ohio.edu/people/hartleyg/docs/abolishthepoint.pdf)
+	- [or here](https://theanarchistlibrary.org/library/noel-ignatiev-the-point-is-not-to-interpret-whitness-but-to-abolish-it)
+- [Accomplices Not Allies: Abolishing the Ally Industrial Complex: An Indigenous Perspective and Provocation by Unknown](https://theanarchistlibrary.org/library/indigenous-action-accomplices-not-allies)
+- [Really Though, Not All “Black” People Give a Fuck About “White” Dreads: A Diary on Mayhem and Race Nihilism by Flower Bomb](https://theanarchistlibrary.org/library/flower-bomb-really-though-not-all-black-people-give-a-fuck-about-white-dreads)
+- [Against Identity Politics by Lupus Dragonowl](https://theanarchistlibrary.org/library/lupus-dragonowl-against-identity-politics)
+- [Nameless: An Egoist Critique of Identity by Wolfi Landstricher](https://theanarchistlibrary.org/library/wolfi-landstreicher-nameless-an-egoist-critique-of-identity)
+- [White Purity and ‘Woke’ Nationalism by Rhyd Wildermuth](https://www.filmsforaction.org/articles/white-purity-and-woke-nationalism/) **PDF Only**
+- [The Intersection Between Feminism and Stiner Egoism by Abissonichilista](https://theanarchistlibrary.org/library/abissonichilista-the-intersection-between-feminism-and-stirner-egoism)
+- [I Apologize in Advance by Dr. Bones]() **Cannot Find**
 ### Situationalist
-- [An Introduction to the Situationists by Jan D. Matthews]()
-- [Treatise on Etiquette for the Younger Generations / On the Poverty of Student Life by SI]()
+- [An Introduction to the Situationists by Jan D. Matthews](https://theanarchistlibrary.org/library/jan-d-matthews-an-introduction-to-the-situationists)
+- [Treatise on Etiquette for the Younger Generations / On the Poverty of Student Life by SI](https://littleblackcart.com/index.php?dispatch=products.view&product_id=367) **Local Files Unavailable**
 - [Society of the Spectacle by Guy Debord]()
-- [Comments of the Society of the Spectacle by Guy Debord]()
-- [The Revolution of Everyday Life by Raoul Vaneigem]()
-- [The Situationist International Anthology by various]()
+- [Comments of the Society of the Spectacle by Guy Debord](https://theanarchistlibrary.org/library/guy-debord-the-society-of-the-spectacle)
+- [The Revolution of Everyday Life by Raoul Vaneigem](https://theanarchistlibrary.org/library/raoul-vaneigem-the-revolution-of-everyday-life)
+- [The Situationist International Anthology by various](https://archive.org/details/SituationistInternationalAnthology) **PDF Only**
 ### Post-Situationalist
-- [Debord, Ressentiment and Revolutionary Anarchism by various]()
-- [An Inquiry into the Causes and Nature of the Misery of People by Jean-Pierre Voyer]()
-- [It’s Crazy How Many Things Don’t Exist by Jean-Pierre Voyer]()
-- [Public Secrets: Collected Skirmishes of Ken Knabb: 1970-1997 by Ken Knabb]()
-- [The Joy of Revolution by Ken Knabb]()
+- [Debord, Ressentiment and Revolutionary Anarchism by various](https://littleblackcart.com/index.php?dispatch=products.view&product_id=320) **Purchasable**
+- [An Inquiry into the Causes and Nature of the Misery of People by Jean-Pierre Voyer](https://littleblackcart.com/index.php?dispatch=products.view&product_id=620) **Purchasable**
+- [It’s Crazy How Many Things Don’t Exist by Jean-Pierre Voyer](https://archive.org/details/JeanPierreVoyerItsCrazyHowManyThingsDontExist)
+- [Public Secrets: Collected Skirmishes of Ken Knabb: 1970-1997 by Ken Knabb](https://archive.org/details/publicsecretscollectedskirmishesofkenknabb19701997) **PDF Only**
+- [The Joy of Revolution by Ken Knabb](https://theanarchistlibrary.org/library/ken-knabb-the-joy-of-revolution)
 ### Ultra-Left
-- [Jacques Camatte and the New Politics of Liberation by Dave Antagonism]()
-- [The Wandering of Humanity by Jacques Camatte]()
-- [Manual for Revolutionary Leaders by Fredy Perlman]()
-- [The Continuing Appeal of Nationalism by Fredy Perlman]()
-- [Nihilist Communism by Monsieur Dupont]()
-- [Species Being and Other Stories by Frere Dupond]()
-- [Anarchists Must Say What Only Anarchists Can Say by Monsieur Dupont]()
-- [Autonomia: Post-Political Politics by various]()
-- [Communization and its discontents: Contestation, Critique, and Contemporary Struggles by Benjamin Noys]()
-- [The Economy of Abolition / Abolition of the Economy Marina Vishmidt]()
+- [Jacques Camatte and the New Politics of Liberation by Dave Antagonism](https://theanarchistlibrary.org/library/dave-antagonism-jacques-camatte-and-the-new-politics-of-liberation)
+- [The Wandering of Humanity by Jacques Camatte](https://theanarchistlibrary.org/library/jacques-camatte-the-wandering-of-humanity)
+- [Manual for Revolutionary Leaders by Fredy Perlman](https://theanarchistlibrary.org/library/micheal-velli-manual-for-revolutionary-leaders)
+- [The Continuing Appeal of Nationalism by Fredy Perlman](https://theanarchistlibrary.org/library/fredy-perlman-the-continuing-appeal-of-nationalism)
+- [Nihilist Communism by Monsieur Dupont](https://theanarchistlibrary.org/library/monsieur-dupont-nihilist-communism)
+- [Species Being and Other Stories by Frere Dupont](https://theanarchistlibrary.org/library/frere-dupont-species-being-and-other-stories)
+- [Anarchists Must Say What Only Anarchists Can Say by Monsieur Dupont](https://theanarchistlibrary.org/library/monsieur-dupont-anarchists-must-say-what-only-anarchists-can-say)
+- [Autonomia: Post-Political Politics by various](https://libcom.org/article/autonomia-post-political-politics) **PDF Only**
+- [Communization and its discontents: Contestation, Critique, and Contemporary Struggles by Benjamin Noys](https://files.libcom.org/files/Communization-and-its-Discontents-Contestation-Critique-and-Contemporary-Struggles.pdf) **PDF Only**
+- [The Economy of Abolition / Abolition of the Economy Marina Vishmidt](https://theanarchistlibrary.org/library/marina-vishmidt-the-economy-of-abolition-abolition-of-the-economy)
 ### Communization
-- [The Coming Insurrection by The Invisible Committee]()
-- [To Our Friends by The Invisible Committee]()
-- [Now by the Invisible Committee]()
-- [Endnotes 1 journal]()
+- [The Coming Insurrection by The Invisible Committee](https://theanarchistlibrary.org/library/comite-invisible-the-coming-insurrection)
+- [To Our Friends by The Invisible Committee](https://theanarchistlibrary.org/library/the-invisible-committe-to-our-friends)
+- [Now by the Invisible Committee](https://theanarchistlibrary.org/library/the-invisible-committe-now)
+- [Endnotes 1 journal](https://archive.org/details/Endnotes1/page/n5/mode/2up) **PDF Only**
 ### Anti-Civ
-- [The Critique of Civilization by Ran Prieur]()
-- [Against His-story, Against Leviathan by Redy Perlam]()
-- [This World We Must Leave and Other Essays from Camatte by Jacques Camatte]()
-- [Against Domestication by Jacques Camatte]()
-- [Destroying Civilization, Destroying Nature by Anonymous]()
-- [What is Green Anarchy? by Anonymous]()
-- [Anything Can Happen by Fredy Perlman]()
-- [Myth of the Machine (both volumes) by Lewis Mumford]()
-- [There is No Civilization, there is No Wild. There is Only You and Me by Dr. Bones]()
+- [The Critique of Civilization by Ran Prieur](https://theanarchistlibrary.org/library/ran-prieur-the-critique-of-civilization)
+- [Against His-story, Against Leviathan by Fredy Perlman](https://theanarchistlibrary.org/library/fredy-perlman-against-his-story-against-leviathan)
+- [This World We Must Leave and Other Essays from Camatte by Jacques Camatte](https://libcom.org/article/world-we-must-leave-jacques-camatte)
+- [Against Domestication by Jacques Camatte](https://theanarchistlibrary.org/library/jacques-camatte-against-domestication)
+- [Destroying Civilization, Destroying Nature by Anonymous](https://theanarchistlibrary.org/library/anonymous-destroying-civilization-destroying-nature)
+- [What is Green Anarchy? by Anonymous](https://theanarchistlibrary.org/library/anonymous-what-is-green-anarchy)
+- [Anything Can Happen by Fredy Perlman](https://theanarchistlibrary.org/library/fredy-perlman-anything-can-happen)
+- Myth of the Machine (both volumes) by Lewis Mumford **Purchasable**
+- [There is No Civilization, there is No Wild. There is Only You and Me by Dr. Bones](https://theanarchistlibrary.org/library/dr-bones-there-is-no-civilization-there-is-no-wild-there-is-only-you-and-me)
 ### Post-Civ
-- [Post-Civ! A Brief Philosophical and Political Introduction to the Concept of Post-Civilization by Strangers in a Tangled Wilderness]()
-- [Post-Civ! A Deeper Exploration by Usul of the Blackfoot]()
-- [Take What You Need and Compost the Rest: An Introduction to Post-Civilized Theory by Margaret Killjoy]()
-- [Beyond Civilization and Primitive by Ran Prieur]()
+- [Post-Civ! A Brief Philosophical and Political Introduction to the Concept of Post-Civilization by Strangers in a Tangled Wilderness](https://theanarchistlibrary.org/library/strangers-in-a-tangled-wilderness-post-civ-a-brief-philosophical-and-political-introduction-to)
+- [Post-Civ! A Deeper Exploration by Usul of the Blackfoot](https://theanarchistlibrary.org/library/usul-of-the-blackfoot-post-civ-a-deeper-exploration)
+- [Take What You Need and Compost the Rest: An Introduction to Post-Civilized Theory by Margaret Killjoy](https://theanarchistlibrary.org/library/margaret-killjoy-take-what-you-need-and-compost-the-rest-an-introduction-to-post-civilized-theo)
+- [Beyond Civilization and Primitive by Ran Prieur](https://theanarchistlibrary.org/library/ran-prieur-beyond-civilized-and-primitive)
 ### Green-Pessimism
-- [Desert by Anonymous]()
-- [Black Seed journal]()
-- [Green Nihilism or Cosmic Pessimism by Alejandro de Acosta]()
+- [Desert by Anonymous](https://theanarchistlibrary.org/library/anonymous-desert)
+- Black Seed journal
+	- [#1](https://theanarchistlibrary.org/library/various-black-seed-issue-1)
+	- [#2](https://theanarchistlibrary.org/library/various-black-seed-issue-2)
+	- [#3](https://theanarchistlibrary.org/library/various-black-seed-issue-3-spring-2015)
+	- [#4](https://theanarchistlibrary.org/library/various-authors-black-seed-issue-4)
+	- [#5](https://theanarchistlibrary.org/library/various-authors-black-seed-issue-5)
+	- [#6](https://theanarchistlibrary.org/library/various-authors-black-seed-issue-6)
+	- [#7](https://theanarchistlibrary.org/library/various-authors-black-seed-issue-7)
+	- [#8](https://theanarchistlibrary.org/library/various-authors-black-seed-issue-8)
+- [Green Nihilism or Cosmic Pessimism by Alejandro de Acosta](https://theanarchistlibrary.org/library/alejandro-de-acosta-green-nihilism-or-cosmic-pessimism)
 ### Green Anarchism
-- [Society Against the State by Pierre Clastres]()
-- [Beyond Geography by Frederick Turner]()
-- [Woman and Nature by Susan Griffin]()
-- [Earth First! Environmental Apocalypse by Martha F. Lee]()
-- [Reconsidering Primitivism, Technology, and the Wild by various]()
+- [Society Against the State by Pierre Clastres](https://theanarchistlibrary.org/library/pierre-clastres-society-against-the-state)
+- Beyond Geography by Frederick Turner **Purchasable**
+- Woman and Nature by Susan Griffin **Purchasable**
+- Earth First! Environmental Apocalypse by Martha F. Lee **Purchasable**
+- [Reconsidering Primitivism, Technology, and the Wild by various](https://theanarchistlibrary.org/library/various-authors-reconsidering-primitivism-technology-the-wild)
 ### Anarcho-Primitivism
-- [Origins by John Zerzan]()
-- [A People’s History of Civilization by John Zerzan]()
-- [For Wildness and Anarchy by Kevin Tucker]()
-- [Uncivilized: The Best of Green Anarchy by Various]()
-- [Against the Megamachine by David Watson]()
-- [A Dialog on Primitivism by various]()
-- [In Search of the Primitive by Stanley Diamond]()
-- [Nature and Madness, Tender Carnivore and the Others by Paul Shepard]()
-- [My Name is Chellis and I’m in Recovery from Western Civilization by Chellis Glendinning]()
-- [Black and Green Review]()
+- [Origins by John Zerzan](https://archive.org/details/OriginsAJohnZerzanReader) **PDF Only**
+- [A People’s History of Civilization by John Zerzan](https://archive.org/details/apeopleshistoryofcivilization) **PDF Only**
+- [For Wildness and Anarchy by Kevin Tucker](https://cors.archive.org/details/for-wildness-and-anarchy) **PDF Only** 
+- [Uncivilized: The Best of Green Anarchy by Various](https://archive.org/details/Uncivilized_201611) **PDF Only** 
+- [Against the Megamachine by David Watson](https://theanarchistlibrary.org/library/david-watson-against-the-megamachine-1)
+- [A Dialog on Primitivism by various](https://theanarchistlibrary.org/library/various-authors-a-dialog-on-primitivism)
+- In Search of the Primitive by Stanley Diamond **Purchasable**
+- [Nature and Madness, Tender Carnivore and the Others by Paul Shepard](https://ia803207.us.archive.org/4/items/ShepardNatureAndMadness/Shepard%20-%20Nature%20and%20Madness.pdf)
+- My Name is Chellis and I’m in Recovery from Western Civilization by Chellis Glendinning **Purchasable**
+- [Black and Green Review](https://www.blackandgreenpress.org/) **Purchasable**
 ### Post Anarchism
-- [Post-Anarchism Anarchy by Hakim Bey]()
-- [Anarchy, Power, and Post-Structuralists by Allan Antliff]()
-- [The Political Philosophy of Post-Structuralist Anarchism by Todd May]()
-- [From Bakunin to Lacan: Anti-Authoritarianism and the Dislocation of Power by Saul Newman]()
-- [The Politics of Postanarchism by Saul Newman]()
-- [Postanarchism by Saul Newman]()
-- [Empiricism, Pluralism and Politics in Deleuze and Stirner by Saul Newman]()
-- [Specters of Stirner: A Contemporary Critique of Ideology by Saul Newman]()
-- [Stirner and Foucault: Toward a Post-Kantian Freedom by Saul Newman]()
-- [War on the State: Stirner and Deleuze’s Anarchism by Saul Newman]()
-- [Post-Anarchism: A Reader by various]()
-- [After Post-Anarchism by Duane Rousselle]()
-- [Its Core is the Negation by Alejandro De Acosta]()
-- [The Agony of Power by Jean Baudrillard]()
+- [Post-Anarchism Anarchy by Hakim Bey](https://theanarchistlibrary.org/library/hakim-bey-post-anarchism-anarchy)
+- [Anarchy, Power, and Post-Structuralists by Allan Antliff](https://theanarchistlibrary.org/library/allan-antliff-anarchy-power-and-poststructuralism)
+- [The Political Philosophy of Post-Structuralist Anarchism by Todd May](https://theanarchistlibrary.org/library/todd-may-the-political-philosophy-of-poststructuralist-anarchism)
+- From Bakunin to Lacan: Anti-Authoritarianism and the Dislocation of Power by Saul Newman **Purchasable**
+- [The Politics of Postanarchism by Saul Newman](https://theanarchistlibrary.org/library/saul-newman-the-politics-of-postanarchism)
+- [Postanarchism by Saul Newman](https://theanarchistlibrary.org/library/saul-newman-postanarchism)
+- [Empiricism, Pluralism and Politics in Deleuze and Stirner by Saul Newman](https://theanarchistlibrary.org/library/saul-newman-empiricism-pluralism-politics-deleuze-and-stirner)
+- [Specters of Stirner: A Contemporary Critique of Ideology by Saul Newman](https://theanarchistlibrary.org/library/saul-newman-spectres-of-stirner-contemporary-critique-of-idealogy)
+- [Stirner and Foucault: Toward a Post-Kantian Freedom by Saul Newman](https://theanarchistlibrary.org/library/saul-newman-stirner-and-foucault-toward-a-post-kantian-freedom)
+- [War on the State: Stirner and Deleuze’s Anarchism by Saul Newman](https://theanarchistlibrary.org/library/saul-newman-war-on-the-state-stirner-and-deleuze-s-anarchism)
+- Post-Anarchism: A Reader by various **Purchasable**
+- [After Post-Anarchism by Duane Rousselle](https://archive.org/details/RousselleAfterPostAnarchism_201610) **PDF Only**
+- [Its Core is the Negation by Alejandro De Acosta](https://theanarchistlibrary.org/library/alejandro-de-acosta-its-core-is-the-negation)
+- The Agony of Power by Jean Baudrillard **Purchasable**
 ### Spiritual Anarchism
-- [T.A.Z. The Temporary Autonomous Zone, Ontological Anarchy, Poetic Terrorism by Hakim Bey]()
-- [An American Retrograde by Dr. Bones]()
-- [Folk Magick as Insurrection by Dr. Bones]()
-- [Against Tradition: Anarchism in a Magical Context by Dr. Bones]()
-- [The Magic of Crime: Illegalism, “The Sporting Life”, and Living Beyond the Law Dr. Bones]()
-- [Dark Virtue: Daoism and the Rejection of Civilization by Ramonelani]()
+- [T.A.Z. The Temporary Autonomous Zone, Ontological Anarchy, Poetic Terrorism by Hakim Bey](https://theanarchistlibrary.org/library/hakim-bey-t-a-z-the-temporary-autonomous-zone-ontological-anarchy-poetic-terrorism)
+- An American Retrograde by Dr. Bones **Unavailable**
+- [Folk Magick as Insurrection by Dr. Bones](https://theanarchistlibrary.org/library/folk-magic-as-insurrection)
+- Against Tradition: Anarchism in a Magical Context by Dr. Bones **Unavailable**
+- The Magic of Crime: Illegalism, “The Sporting Life”, and Living Beyond the Law Dr. Bones **Unavailable**
+- [Dark Virtue: Daoism and the Rejection of Civilization by Ramonelani](https://theanarchistlibrary.org/library/ramon-elani-dark-virtue-daoism-and-the-rejection-of-civilization)
 - [The World Without Forms by Rhyd Wildermuth]()
-- [Neither Lord Nor Subject by Bao Jingyan]()
-- [Zen Anarchy by John Clark]()
-- [Gods and Radicals]()
+- [Neither Lord Nor Subject by Bao Jingyan](https://theanarchistlibrary.org/library/neither-lord-nor-subject)
+- [Zen Anarchy by John Clark](https://theanarchistlibrary.org/library/max-cafard-zen-anarchy)
+- [Gods and Radicals](https://abeautifulresistance.org/)
 ### Egoist Communism
-- [A Brief Description of Egoist Communism by D.Z. Rowan]()
-- [The Right to Be Greedy: Theses on the Practical Necessity of Demanding Everything by For Ourselves]()
-- [Egoist-Communism: What it is and What it isn’t by Dr. Bones]()
+- [A Brief Description of Egoist Communism by D.Z. Rowan](https://theanarchistlibrary.org/library/rowan-a-brief-description-of-egoist-communism)
+- [The Right to Be Greedy: Theses on the Practical Necessity of Demanding Everything by For Ourselves](https://theanarchistlibrary.org/library/for-ourselves-the-right-to-be-greedy-theses-on-the-practical-necessity-of-demanding-everything)
+- [Egoist-Communism: What it is and What it isn’t by Dr. Bones](https://theanarchistlibrary.org/library/dr-bones-egoist-communism-what-it-is-and-what-it-isn-t)
 
 ## Disclaimer
 > The ideas contained within these readings are for educational purposes and do not reflect my own personal views 🖤
