@@ -8,6 +8,8 @@ I also feel strange about linking to some of the more... shall we say... *choice
 
 **Note**: This is only a reading list from the below image, which makes its rounds quite frequently when interested parties ask the question, "What is post-left anarchy?" [Raddle's Wiki](https://raddle.me/wiki) is another great resource.
 
+2022-09-03 Update: Removed Dr. Bones. See [this](https://old.reddit.com/r/Anarchism/comments/a8v0mq/psa_the_guillotine_cohost_dr_bones_has_been_found/) thread on his sexual misconduct.
+
 ![Emq-Ar3VkAAtjn6](https://user-images.githubusercontent.com/109400458/179336945-a9525890-5d16-49b1-ae03-33087a7e6f8f.jpg)
 
 ## Roadmap
