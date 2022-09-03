@@ -91,8 +91,6 @@ I also feel strange about linking to some of the more... shall we say... *choice
 - [Never Again Unarmed by Haris Hatzimichelakis](https://theanarchistlibrary.org/library/haris-hatzimichelakis-never-again-unarmed)
 - [Lone Wolves are not Alone by Conspiracy of Cells of Fire](https://theanarchistlibrary.org/library/conspiracy-of-cells-of-fire-lone-wolves-are-not-alone)
 - [Articles from "Canenero" by Various](https://theanarchistlibrary.org/library/various-authors-articles-from-canenero)
-- [It's Time for Anarchists to Pick Up A Gun by Dr Bones](https://theanarchistlibrary.org/library/dr-bones-it-s-time-for-anarchists-to-pick-up-a-gun)
-- Stop Protesting and Become a Revolutionary by Dr Bones **Note: Unavailable**
 ### Eco Extremism
 - Technological Slavery by Theodore Kaczynski
 - The flower growing out of the underworld: An Introduction to eco-extremism
@@ -146,7 +144,6 @@ I also feel strange about linking to some of the more... shall we say... *choice
 - [Nameless: An Egoist Critique of Identity by Wolfi Landstricher](https://theanarchistlibrary.org/library/wolfi-landstreicher-nameless-an-egoist-critique-of-identity)
 - [White Purity and ‘Woke’ Nationalism by Rhyd Wildermuth](https://www.filmsforaction.org/articles/white-purity-and-woke-nationalism/) **PDF Only**
 - [The Intersection Between Feminism and Stiner Egoism by Abissonichilista](https://theanarchistlibrary.org/library/abissonichilista-the-intersection-between-feminism-and-stirner-egoism)
-- [I Apologize in Advance by Dr. Bones]() **Cannot Find**
 ### Situationalist
 - [An Introduction to the Situationists by Jan D. Matthews](https://theanarchistlibrary.org/library/jan-d-matthews-an-introduction-to-the-situationists)
 - [Treatise on Etiquette for the Younger Generations / On the Poverty of Student Life by SI](https://littleblackcart.com/index.php?dispatch=products.view&product_id=367) **Local Files Unavailable**
@@ -185,7 +182,6 @@ I also feel strange about linking to some of the more... shall we say... *choice
 - [What is Green Anarchy? by Anonymous](https://theanarchistlibrary.org/library/anonymous-what-is-green-anarchy)
 - [Anything Can Happen by Fredy Perlman](https://theanarchistlibrary.org/library/fredy-perlman-anything-can-happen)
 - Myth of the Machine (both volumes) by Lewis Mumford **Purchasable**
-- [There is No Civilization, there is No Wild. There is Only You and Me by Dr. Bones](https://theanarchistlibrary.org/library/dr-bones-there-is-no-civilization-there-is-no-wild-there-is-only-you-and-me)
 ### Post-Civ
 - [Post-Civ! A Brief Philosophical and Political Introduction to the Concept of Post-Civilization by Strangers in a Tangled Wilderness](https://theanarchistlibrary.org/library/strangers-in-a-tangled-wilderness-post-civ-a-brief-philosophical-and-political-introduction-to)
 - [Post-Civ! A Deeper Exploration by Usul of the Blackfoot](https://theanarchistlibrary.org/library/usul-of-the-blackfoot-post-civ-a-deeper-exploration)
@@ -237,10 +233,6 @@ I also feel strange about linking to some of the more... shall we say... *choice
 - The Agony of Power by Jean Baudrillard **Purchasable**
 ### Spiritual Anarchism
 - [T.A.Z. The Temporary Autonomous Zone, Ontological Anarchy, Poetic Terrorism by Hakim Bey](https://theanarchistlibrary.org/library/hakim-bey-t-a-z-the-temporary-autonomous-zone-ontological-anarchy-poetic-terrorism)
-- An American Retrograde by Dr. Bones **Unavailable**
-- [Folk Magick as Insurrection by Dr. Bones](https://theanarchistlibrary.org/library/folk-magic-as-insurrection)
-- Against Tradition: Anarchism in a Magical Context by Dr. Bones **Unavailable**
-- The Magic of Crime: Illegalism, “The Sporting Life”, and Living Beyond the Law Dr. Bones **Unavailable**
 - [Dark Virtue: Daoism and the Rejection of Civilization by Ramonelani](https://theanarchistlibrary.org/library/ramon-elani-dark-virtue-daoism-and-the-rejection-of-civilization)
 - [The World Without Forms by Rhyd Wildermuth]()
 - [Neither Lord Nor Subject by Bao Jingyan](https://theanarchistlibrary.org/library/neither-lord-nor-subject)
@@ -249,7 +241,7 @@ I also feel strange about linking to some of the more... shall we say... *choice
 ### Egoist Communism
 - [A Brief Description of Egoist Communism by D.Z. Rowan](https://theanarchistlibrary.org/library/rowan-a-brief-description-of-egoist-communism)
 - [The Right to Be Greedy: Theses on the Practical Necessity of Demanding Everything by For Ourselves](https://theanarchistlibrary.org/library/for-ourselves-the-right-to-be-greedy-theses-on-the-practical-necessity-of-demanding-everything)
-- [Egoist-Communism: What it is and What it isn’t by Dr. Bones](https://theanarchistlibrary.org/library/dr-bones-egoist-communism-what-it-is-and-what-it-isn-t)
+
 
 ## Disclaimer
 > The ideas contained within these readings are for educational purposes and do not reflect my own personal views 🖤
